@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Keith_Loughnane</string>
+    <string name="welcome">Tá on app ana awsomeach</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Send Email</string>
+
+    <string-array name="technologies">
+        <item>iPhone/iPad</item>
+        <item>Windows Mobile</item>
+        <item>Android</item>
+        <item>C#/.Net</item>
+        <item>Other</item>
+    </string-array>
+</resources>
